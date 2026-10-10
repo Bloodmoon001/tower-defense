@@ -18,11 +18,11 @@ A complete Tower Defense game implementing classic mechanics: enemies follow a p
 
 ### Screenshots
 
-![Gameplay](docs/screenshot.png)
+![Gameplay](docs/screenshot.jpg)
 
 *In-game: enemies moving along the A\* path, towers firing, UI panel on the right.*
 
-![Victory screen](docs/victory.png)
+![Victory screen](docs/victory.jpg)
 
 *Victory screen after clearing all 8 waves.*
 
