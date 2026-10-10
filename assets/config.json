@@ -1,0 +1,11 @@
+{
+    "grid": {
+        "width": 20,
+        "height": 15,
+        "cellSize": 40.0
+    },
+    "player": {
+        "startingGold": 200,
+        "startingHp": 20
+    }
+}
